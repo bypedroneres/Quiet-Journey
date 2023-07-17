@@ -18,7 +18,7 @@ The Quiet Journey website features a minimalist design with a focus on simplicit
 
 * <b>Guided Meditation:</b> Users can click on the circle to start a guided meditation session. The website provides a curated script that guides users through a peaceful journey of self-reflection and relaxation.
 * <b>Text Animation:</b> As the guided meditation progresses, the text lines appear one by one, creating a sense of flow and progression. Each new line replaces the previous one, allowing users to focus on the current instruction.
-* <b>Minimalistic Interface:</b> The website follows a minimalistic approach, providing a distraction-free environment for meditation. By keeping the interface simple and uncluttered, users can immerse themselves in the practice without unnecessary distractions.
+* <b>Minimalistic Interface:</b> The website follows a minimalistic approach, providing a distraction-free environment for meditation. By keeping the interface simple and uncluttered, users can immerse themselves in the practice without unnecessary distractions but you have to keep your eyes open.
 * <b>Responsive Design:</b> The website is designed to be responsive, ensuring a seamless user experience across different devices and screen sizes.
 
 <h4>✹ What I've Learned ✹</h4>
